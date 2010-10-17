@@ -1,0 +1,33 @@
+#+TITLE:     Emacs Setup
+#+AUTHOR:    James Hurford
+#+EMAIL:     terrasea@gmail.com
+#+DATE:      2010-10-18 Mon
+#+DESCRIPTION: 
+#+KEYWORDS: 
+#+LANGUAGE:  en
+#+OPTIONS:   H:3 num:t toc:t \n:nil @:t ::t |:t ^:t -:t f:t *:t <:t
+#+OPTIONS:   TeX:t LaTeX:t skip:nil d:nil todo:t pri:nil tags:not-in-toc
+#+INFOJS_OPT: view:nil toc:nil ltoc:t mouse:underline buttons:0 path:http://orgmode.org/org-info.js
+#+EXPORT_SELECT_TAGS: export
+#+EXPORT_EXCLUDE_TAGS: noexport
+#+LINK_UP:   
+#+LINK_HOME: 
+#+XSLT: 
+
+
+* Links
+ - Emacs Google Calendar
+   - http://mph.puddingbowl.org/2010/02/org-mode-in-your-pocket-is-a-gnu-shaped-devil/
+   - http://bc.tech.coop/blog/070306.html
+ - Django programming environment
+   - http://garage.pimentech.net/libcommonDjango_django_emacs/
+ - LaTeX bibliography setup for org-mode
+   - http://www.mfasold.net/blog/2009/02/using-emacs-org-mode-to-draft-papers/
+ - Bibliography setup in LaTeX
+   - http://www.andy-roberts.net/misc/latex/latextutorial3.html
+ - CDLaTeX in org-mode
+   - http://ubuntu.ftp.heanet.ie/www.gnu.org/software/emacs/manual/html_node/org/CDLaTeX-mode.html
+ - Figures in org-mode
+   - http://www.mfasold.net/blog/2009/07/inline-figures-in-org-mode-paper-drafts/
+ - Syntax highlighting, etc in org-mode when exporting to LaTeX
+   - http://www.mail-archive.com/emacs-orgmode@gnu.org/msg30437.html
