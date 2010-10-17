@@ -15,6 +15,9 @@
 #+XSLT: 
 
 
+* About
+  This is a list of resources I use or want to use.  Also later some
+  actual notes and configuration options going to be added.
 * Links
  + Emacs Google Calendar
    - http://mph.puddingbowl.org/2010/02/org-mode-in-your-pocket-is-a-gnu-shaped-devil/
