@@ -34,3 +34,16 @@
    - http://www.mfasold.net/blog/2009/07/inline-figures-in-org-mode-paper-drafts/
  + Syntax highlighting, etc in org-mode when exporting to LaTeX
    - http://www.mail-archive.com/emacs-orgmode@gnu.org/msg30437.html
+
+* Init stuff
+
+** Java annotation support
+#+begin_src emacs-lisp
+  ;;for handling java annotation indents
+  (add-hook
+   'java-mode-hook
+   '(lambda () "Treat Java 1.5 @-style annotations as comments."
+      (setq c-comment-start-regexp "(@|/(/|[*][*]?))")
+      (modify-syntax-entry ?@ "< b" java-mode-syntax-table)))
+  
+#+end_src
