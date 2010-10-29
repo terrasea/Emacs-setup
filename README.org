@@ -34,6 +34,9 @@
    - http://www.mfasold.net/blog/2009/07/inline-figures-in-org-mode-paper-drafts/
  + Syntax highlighting, etc in org-mode when exporting to LaTeX
    - http://www.mail-archive.com/emacs-orgmode@gnu.org/msg30437.html
+ + Python refactoring and stuff
+   - http://bitbucket.org/agr/ropemacs/src/
+
 
 * Init stuff
 
